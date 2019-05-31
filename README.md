@@ -1,20 +1,17 @@
 ### Introduction
 
-> Related researches on recommendation system using user-item profile builded by knowledge graphs.
+A collection of knowledge graph for recommender system papers, codes, and reading notes.
 
-
- * _**Paper References:**_
+ * _**Knowledge Graph for Recommendation Prediction:**_
 
     - [ ] Cai H, Zheng V W, Chang K. **A comprehensive survey of graph embedding:problems, techniques and applications[J].** IEEE Transactions on Knowledge andData Engineering, 2018.
-
-    - [ ] Zhang Y, Ai Q, Chen X, et al. **Learning over Knowledge-Base Embeddings for Recommendation[J].** arXiv preprint arXiv:1803.06540, 2018.
-
-    - [ ] Wang H, Zhang F, Wang J, et al. [**Ripple Network: Propagating User Preferences on the Knowledge Graph for Recommender Systems[J].**](https://arxiv.org/pdf/1803.03467.pdf) arXiv preprint arXiv:1803.03467, 2018.[[Github Code]](https://github.com/hwwang55/RippleNet)
-
-    - [ ] Wang X, Wang D, Xu C, et al. [**Explainable Reasoning over Knowledge Graphs for Recommendation[J].**](https://arxiv.org/pdf/1811.04540.pdf) arXiv preprint arXiv:1811.04540, 2018.[[Github Code]](https://github.com/eBay/KPRN)
+    - [ ] **Learning over Knowledge-Base Embeddings for Recommendation[J].** arXiv preprint arXiv:1803.06540, 2018. Zhang Y, Ai Q, Chen X, et al.
+    - [ ] [**Ripple Network: Propagating User Preferences on the Knowledge Graph for Recommender Systems[J].**](https://arxiv.org/pdf/1803.03467.pdf) arXiv preprint arXiv:1803.03467, 2018. Wang H, Zhang F, Wang J, et al. [[Github Code]](https://github.com/hwwang55/RippleNet)
+    - [ ] [**Explainable Reasoning over Knowledge Graphs for Recommendation[J].**](https://arxiv.org/pdf/1811.04540.pdf) arXiv preprint arXiv:1811.04540, 2018. Wang X, Wang D, Xu C, et al. [[Github Code]](https://github.com/eBay/KPRN)
+    - [ ] [**KGAT: Knowledge Graph Attention Network for Recommendation**](https://xiangwang1223.github.io/papers/KGAT_final.pdf) KDD, 2019. Xiang Wang, Xiangnan He, Yixin Cao, Meng Liu and Tat-Seng Chua. [[Github Code]](https://github.com/xiangwang1223/knowledge_graph_attention_network)
 
 
-* _**Knowledge Graph for Explanable Recommendation**_
+* _**Knowledge Graph for Explanable Recommendation:**_
 
     - [ ] [**Explainable Reasoning over Knowledge Graphs for Recommendation[J].**](https://arxiv.org/pdf/1811.04540.pdf) AAAI, 2019. Wang X, Wang D, Xu C, et al. [[Github Code]](https://github.com/eBay/KPRN)
     - [ ] [**Interaction Embeddings for Prediction and Explanation in Knowledge Graphs**](https://arxiv.org/pdf/1903.04750) WSDM, 2019. W Zhang, B Paudel, W Zhang, A Bernstein, et al. [[Github Code]](https://github.com/wencolani/CrossE)
