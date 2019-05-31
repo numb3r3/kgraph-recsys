@@ -2,9 +2,6 @@
 
 > Related researches on recommendation system using user-item profile builded by knowledge graphs.
 
-#### Keywords:
- **`knowledge graph`, `user-item profile`, `recommendation system`**
-
 
  * _**Paper References:**_
 
