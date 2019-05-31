@@ -21,7 +21,7 @@
 
     - [ ] Wang X, Wang D, Xu C, et al. [**Explainable Reasoning over Knowledge Graphs for Recommendation[J].**](https://arxiv.org/pdf/1811.04540.pdf) arXiv preprint arXiv:1811.04540, 2018.[[Github Code]](https://github.com/eBay/KPRN)
     - [ ] W Zhang, B Paudel, W Zhang, A Bernstein, et al. [**Interaction Embeddings for Prediction and Explanation in Knowledge Graphs**](https://arxiv.org/pdf/1903.04750) arXiv preprint arXiv:1903.04750, 2019. [[Github Code]](https://github.com/wencolani/CrossE)
-    - [] W Ma, M Zhang, Y Cao, C Wang, Y Liu, S Ma, et al. [**Jointly Learning Explainable Rules for Recommendation with Knowledge Graph**](https://arxiv.org/pdf/1903.03714) arXiv preprint arXiv:1903.03714
+    - [ ] W Ma, M Zhang, Y Cao, C Wang, Y Liu, S Ma, et al. [**Jointly Learning Explainable Rules for Recommendation with Knowledge Graph**](https://arxiv.org/pdf/1903.03714) arXiv preprint arXiv:1903.03714
 
 
 * _**Blog References:**_
