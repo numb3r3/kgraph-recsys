@@ -16,11 +16,11 @@
 
 * _**Knowledge Graph for Explanable Recommendation**_
 
-    - [ ] [**Explainable Reasoning over Knowledge Graphs for Recommendation[J].**](https://arxiv.org/pdf/1811.04540.pdf) arXiv preprint arXiv:1811.04540, 2018. Wang X, Wang D, Xu C, et al. [[Github Code]](https://github.com/eBay/KPRN)
-    - [ ] [**Interaction Embeddings for Prediction and Explanation in Knowledge Graphs**](https://arxiv.org/pdf/1903.04750) arXiv preprint arXiv:1903.04750, 2019. W Zhang, B Paudel, W Zhang, A Bernstein, et al. [[Github Code]](https://github.com/wencolani/CrossE)
+    - [ ] [**Explainable Reasoning over Knowledge Graphs for Recommendation[J].**](https://arxiv.org/pdf/1811.04540.pdf) AAAI, 2019. Wang X, Wang D, Xu C, et al. [[Github Code]](https://github.com/eBay/KPRN)
+    - [ ] [**Interaction Embeddings for Prediction and Explanation in Knowledge Graphs**](https://arxiv.org/pdf/1903.04750) WSDM, 2019. W Zhang, B Paudel, W Zhang, A Bernstein, et al. [[Github Code]](https://github.com/wencolani/CrossE)
     - [ ] [**Jointly Learning Explainable Rules for Recommendation with Knowledge Graph**](https://arxiv.org/pdf/1903.03714) arXiv preprint arXiv:1903.03714, 2019. W Ma, M Zhang, Y Cao, C Wang, Y Liu, S Ma, et al.
     - [ ] [**Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation**](https://arxiv.org/pdf/1901.08907.pdf) WWW, 2019. ang, Hongwei, Fuzheng Zhang, Miao Zhao, Wenjie Li, Xing Xie, and Minyi Guo. [[Github Code]](https://github.com/hwwang55/MKR)
-    - [ ] [**Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preference**](https://arxiv.org/abs/1811.04540) WWW 2019. Yixin Cao, Xiang Wang, Xiangnan He, Zikun Hu, Tat-Seng Chua. [[Github Code]](https://github.com/TaoMiner/joint-kg-recommender)
+    - [ ] [**Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preference**](https://arxiv.org/abs/1811.04540) WWW, 2019. Yixin Cao, Xiang Wang, Xiangnan He, Zikun Hu, Tat-Seng Chua. [[Github Code]](https://github.com/TaoMiner/joint-kg-recommender)
 
 
 * _**Blog References:**_
