@@ -4,11 +4,11 @@ A collection of knowledge graph for recommender system papers, codes, and readin
 
  * _**Knowledge Graph for Recommendation Prediction:**_
 
+    - [ ] [**Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preference**](https://arxiv.org/abs/1811.04540) WWW, 2019. Yixin Cao, Xiang Wang, Xiangnan He, Zikun Hu, Tat-Seng Chua. [[Github Code]](https://github.com/TaoMiner/joint-kg-recommender)
     - [ ] **A comprehensive survey of graph embedding:problems, techniques and applications[J].** IEEE Transactions on Knowledge and Data Engineering, 2018. Cai H, Zheng V W, Chang K.
     - [ ] **Learning over Knowledge-Base Embeddings for Recommendation[J].** arXiv preprint arXiv:1803.06540, 2018. Zhang Y, Ai Q, Chen X, et al.
     - [ ] [**Ripple Network: Propagating User Preferences on the Knowledge Graph for Recommender Systems[J].**](https://arxiv.org/pdf/1803.03467.pdf) arXiv preprint arXiv:1803.03467, 2018. Wang H, Zhang F, Wang J, et al. [[Github Code]](https://github.com/hwwang55/RippleNet)
     - [ ] [**KGAT: Knowledge Graph Attention Network for Recommendation**](https://xiangwang1223.github.io/papers/KGAT_final.pdf) KDD, 2019. Xiang Wang, Xiangnan He, Yixin Cao, Meng Liu and Tat-Seng Chua. [[Github Code]](https://github.com/xiangwang1223/knowledge_graph_attention_network)
-
 
 * _**Knowledge Graph for Explanable Recommendation:**_
 
@@ -16,7 +16,7 @@ A collection of knowledge graph for recommender system papers, codes, and readin
     - [ ] [**Interaction Embeddings for Prediction and Explanation in Knowledge Graphs**](https://arxiv.org/pdf/1903.04750) WSDM, 2019. W Zhang, B Paudel, W Zhang, A Bernstein, et al. [[Github Code]](https://github.com/wencolani/CrossE)
     - [ ] [**Jointly Learning Explainable Rules for Recommendation with Knowledge Graph**](https://arxiv.org/pdf/1903.03714) arXiv preprint arXiv:1903.03714, 2019. W Ma, M Zhang, Y Cao, C Wang, Y Liu, S Ma, et al.
     - [ ] [**Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation**](https://arxiv.org/pdf/1901.08907.pdf) WWW, 2019. ang, Hongwei, Fuzheng Zhang, Miao Zhao, Wenjie Li, Xing Xie, and Minyi Guo. [[Github Code]](https://github.com/hwwang55/MKR)
-    - [ ] [**Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preference**](https://arxiv.org/abs/1811.04540) WWW, 2019. Yixin Cao, Xiang Wang, Xiangnan He, Zikun Hu, Tat-Seng Chua. [[Github Code]](https://github.com/TaoMiner/joint-kg-recommender)
+
 
 
 * _**Blog References:**_
